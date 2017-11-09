@@ -64,10 +64,50 @@ var jtMusic = [{
 
     }];
 
-var theLivingTombstone = [{
-    channel_id: 'UCFYMDSW-BzeYZKFSxROw3Rg',
-    channel_title:,
-    description:,
-    thumbnail:,
+var jtStream =[{
+    youtube_video_id: "3Gc-ZeXSdp0",
+    video_title:"JT MUSIC RADIO 💀 - 24/7 Gaming Music and Raps [Live Stream]",
+    youtube_channel_id:"UCzTdZz7z2sPRGCImodwOw0g",
+    channel_title:"JT Music",
+    description:"We make songs and skits for video games! Like and Subscribe to us! Check out our music on iTunes too! channel maintained by Skull and Pat. we are not ...",
+    published_at:"2017-11-05T17:54:58.000Z",
+    thumbnail:"https://i.ytimg.com/vi/3Gc-ZeXSdp0/mqdefault_live.jpg"
+}];
 
-    }];
+var callOfDuty =[{
+    youtube_video_id: "JeFau04i1uk",
+    video_title:"CALL OF DUTY WW2 RAP by JT Music",
+    youtube_channel_id:"UCzTdZz7z2sPRGCImodwOw0g",
+    channel_title:"JT Music",
+    description:"We make songs and skits for video games! Like and Subscribe to us! Check out our music on iTunes too! channel maintained by Skull and Pat. we are not ...",
+    published_at:"2017-11-05T17:00:01.000Z",
+    thumbnail:"https://i.ytimg.com/vi/JeFau04i1uk/mqdefault.jpg"
+}];
+var acOrigin =[{
+    youtube_video_id: "4iDMZ8H2id8",
+    video_title:"Assassin's Creed Origins Rap LYRIC VIDEO by JT Music - "I'm The Creed"",
+    youtube_channel_id:"UCzTdZz7z2sPRGCImodwOw0g",
+    channel_title:"JT Music",
+    description:"We make songs and skits for video games! Like and Subscribe to us! Check out our music on iTunes too! channel maintained by Skull and Pat. we are not ...",
+    published_at:"2017-11-03T15:00:01.000Z",
+    thumbnail:"https://i.ytimg.com/vi/4iDMZ8H2id8/mqdefault.jpg"
+}];
+
+
+var nak = [{
+    channel_id: "UCdnCSisNdSrOyAYUdLNQ3mw",
+    channel_title:"NAK",
+    description:"Rapper & Lyricist. Sparking thoughtful reflection. Leading defeated hearts to hope. Ashley Court: Chapter 1 • Available now: http://smarturl.it/AshleyCourt.",
+    thumbnail:"https://yt3.ggpht.com/-uutxxqPAufM/AAAAAAAAAAI/AAAAAAAAAAA/9MEzuHrew6Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+
+}];
+
+var noGoodbyes    =[{
+    youtube_video_id: "Jz7X2fdmjZY",
+    video_title:"NAK x Ljones - "No Goodbyes" [A Tribute to Arkansas]",
+    youtube_channel_id:"UCdnCSisNdSrOyAYUdLNQ3mw",
+    channel_title:"NAK",
+    description:"Rapper & Lyricist. Sparking thoughtful reflection. Leading defeated hearts to hope. Ashley Court: Chapter 1 • Available now: http://smarturl.it/AshleyCourt.",
+    published_at:"2016-01-20T03:57:40.000Z",
+    thumbnail:"https://i.ytimg.com/vi/Jz7X2fdmjZY/mqdefault.jpg"
+}];
