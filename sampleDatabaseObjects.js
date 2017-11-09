@@ -15,3 +15,59 @@ var sampleVideoData =[{
     published_at:"2017-10-21T12:58:06.000Z",
     thumbnail:"https://i.ytimg.com/vi/0Jykp0GFDAY/mqdefault.jpg",
 }];
+
+var theLivingTombstone = [{
+    channel_id: "UCFYMDSW-BzeYZKFSxROw3Rg",
+    channel_title:"The Living Tombstone",
+    description:"Official YouTube channel of The Living Tombstone Channel Art by Vivziepop - https://www.youtube.com/user/SpindleHorse Avatar logo by Tom Trager ...",
+    thumbnail: "https://yt3.ggpht.com/-Gxy25qYOrKQ/AAAAAAAAAAI/AAAAAAAAAAA/eVEXzALqfVU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+
+    }];
+
+
+var goodbyeMomen =[{
+    youtube_video_id:"vdEWZq-m27M",
+    video_title:"Goodbye Moonmen- Rick and Morty Remix- The Living Tombstone",
+    youtube_channel_id:"UCFYMDSW-BzeYZKFSxROw3Rg",
+    channel_title:"The Living Tombstone",
+    description:"Official YouTube channel of The Living Tombstone Channel Art by Vivziepop - https://www.youtube.com/user/SpindleHorse Avatar logo by Tom Trager ...",
+    published_at:"2017-11-08T20:50:47.000Z",
+    thumbnail:"https://i.ytimg.com/vi/vdEWZq-m27M/mqdefault.jpg"
+}];
+
+var halloweenSong =[{
+    youtube_video_id:"Ma2zDnKcJvA",
+    video_title:"Halloween Song - Yumbo Bear Instrumental - דובון יומבו- The Living Tombstone",
+    youtube_channel_id:"UCFYMDSW-BzeYZKFSxROw3Rg",
+    channel_title:"The Living Tombstone",
+    description:"Official YouTube channel of The Living Tombstone Channel Art by Vivziepop - https://www.youtube.com/user/SpindleHorse Avatar logo by Tom Trager ...",
+    published_at:"2017-11-01T16:57:49.000Z",
+    thumbnail:"https://i.ytimg.com/vi/Ma2zDnKcJvA/mqdefault.jpg"
+}];
+
+var marioJump =[{
+    youtube_video_id: "96wMuI1vvUg",
+    video_title:"Jump Up, Super Star! Instrumental Remix- Super Mario Odyssey- The Living Tombstone",
+    youtube_channel_id:"UCFYMDSW-BzeYZKFSxROw3Rg",
+    channel_title:"The Living Tombstone",
+    description:"Official YouTube channel of The Living Tombstone Channel Art by Vivziepop - https://www.youtube.com/user/SpindleHorse Avatar logo by Tom Trager ...",
+    published_at:"2017-10-18T14:09:22.000Z",
+    thumbnail:"https://i.ytimg.com/vi/96wMuI1vvUg/mqdefault.jpg"
+}];
+
+
+var jtMusic = [{
+    channel_id: "UCzTdZz7z2sPRGCImodwOw0g",
+    channel_title:"JT Music",
+    description:"We make songs and skits for video games! Like and Subscribe to us! Check out our music on iTunes too! channel maintained by Skull and Pat. we are not ...",
+    thumbnail:"https://yt3.ggpht.com/-AJ9ro30-NQ8/AAAAAAAAAAI/AAAAAAAAAAA/YtXQLFdlISw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+
+    }];
+
+var theLivingTombstone = [{
+    channel_id: 'UCFYMDSW-BzeYZKFSxROw3Rg',
+    channel_title:,
+    description:,
+    thumbnail:,
+
+    }];
