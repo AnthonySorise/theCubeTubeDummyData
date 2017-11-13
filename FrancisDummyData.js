@@ -86,7 +86,7 @@ var nak = [{
 
 var noGoodbyes =[{
     youtube_video_id: "Jz7X2fdmjZY",
-    video_title:"NAK x Ljones - "No Goodbyes" [A Tribute to Arkansas]",
+    video_title:"NAK x Ljones - 'No Goodbyes' [A Tribute to Arkansas]",
     youtube_channel_id:"UCdnCSisNdSrOyAYUdLNQ3mw",
     channel_title:"NAK",
     description:"Rapper & Lyricist. Sparking thoughtful reflection. Leading defeated hearts to hope. Ashley Court: Chapter 1 • Available now: http://smarturl.it/AshleyCourt.",
@@ -96,7 +96,7 @@ var noGoodbyes =[{
 
 var nightSky =[{
     youtube_video_id: "SN76eL5S8W0",
-    video_title:"NAK x Wy-i "Night Sky" - [nakhiphop.com]",
+    video_title:"NAK x Wy-i 'Night Sky' - [nakhiphop.com]",
     youtube_channel_id:"UCdnCSisNdSrOyAYUdLNQ3mw",
     channel_title:"NAK",
     description:"Rapper & Lyricist. Sparking thoughtful reflection. Leading defeated hearts to hope. Ashley Court: Chapter 1 • Available now: http://smarturl.it/AshleyCourt.",
@@ -105,7 +105,7 @@ var nightSky =[{
 }];
 var spiritBomb =[{
     youtube_video_id: "tm8SPoFJYR4",
-    video_title:"NAK x Plue Starfox "Spirit Bomb" (Plue Starfox EP Contest Submission) - [nakhiphop.com]",
+    video_title:"NAK x Plue Starfox 'Spirit Bomb' (Plue Starfox EP Contest Submission) - [nakhiphop.com]",
     youtube_channel_id:"UCdnCSisNdSrOyAYUdLNQ3mw",
     channel_title:"NAK",
     description:"Rapper & Lyricist. Sparking thoughtful reflection. Leading defeated hearts to hope. Ashley Court: Chapter 1 • Available now: http://smarturl.it/AshleyCourt.",
@@ -114,7 +114,7 @@ var spiritBomb =[{
 }];
 var grace =[{
     youtube_video_id: "6zAGcqo9CQY",
-    video_title:"NAK x 少先组 aka Clown "Take Care" - [nakhiphop.com]",
+    video_title:"NAK x 少先组 aka Clown 'Take Care'' - [nakhiphop.com]",
     youtube_channel_id:"UCdnCSisNdSrOyAYUdLNQ3mw",
     channel_title:"NAK",
     description:"Rapper & Lyricist. Sparking thoughtful reflection. Leading defeated hearts to hope. Ashley Court: Chapter 1 • Available now: http://smarturl.it/AshleyCourt.",
