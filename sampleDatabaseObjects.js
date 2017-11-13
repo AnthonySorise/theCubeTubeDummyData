@@ -15,3 +15,4 @@ var sampleVideoData =[{
     published_at:"2017-10-21T12:58:06.000Z",
     thumbnail:"https://i.ytimg.com/vi/0Jykp0GFDAY/mqdefault.jpg",
 }];
+
