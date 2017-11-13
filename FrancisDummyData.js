@@ -67,7 +67,7 @@ var callOfDuty =[{
 }];
 var acOrigin =[{
     youtube_video_id: "4iDMZ8H2id8",
-    video_title:"Assassin's Creed Origins Rap LYRIC VIDEO by JT Music - "I'm The Creed"",
+    video_title:"Assassin's Creed Origins Rap LYRIC VIDEO by JT Music - 'I'm The Creed'",
     youtube_channel_id:"UCzTdZz7z2sPRGCImodwOw0g",
     channel_title:"JT Music",
     description:"We make songs and skits for video games! Like and Subscribe to us! Check out our music on iTunes too! channel maintained by Skull and Pat. we are not ...",
